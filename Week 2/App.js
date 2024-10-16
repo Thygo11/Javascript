@@ -1,4 +1,4 @@
 function changetext() {
 document.getElementById('text').style.color = "red"
-document.getElementById('text').innerText = "nieuwe tekst"
+document.getElementById('text').innerText = "Doei"
 }
